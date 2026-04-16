@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ruby Fathima, A. 🌼
 
 
-**💼 Current Role:** - Retail Process Associate
+**💼 Current Role:** - Catalog assistant
 
 **💻 Top Skills:** Java | Selenium | TestNG | SQL
 
